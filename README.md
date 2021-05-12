@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kitso-Motlola
-- 👀 I’m interested in: 1)  software development, particularly in cyber-physical systems
+- 👀 I’m interested in: 
+-                        1) software development, particularly in cyber-physical systems
 -                        2) IoT systems, deployed for system control and monitoring
 -                        3) Machine Learning and AI (although I am in the beginner stages 
 -                      
