@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kitso-Motlola
+- 👀 I’m interested in : software development, particularly in cyber-physical systems
+-                      : IoT systems, deployed for system control and monitoring
+-                      : Machine Learning and AI (although I am in the beginner stages
+- 🌱 I’m currently learning Javascript, and Non-relational databases
+- 💞️ I’m looking to collaborate on all kinds of software development projects, particularly challenging and unfamiliar cases
+- 📫 How to reach me : email => kmotlola97@gmnail.com
