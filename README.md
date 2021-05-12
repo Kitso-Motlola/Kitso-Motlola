@@ -4,4 +4,4 @@
 -                      : Machine Learning and AI (although I am in the beginner stages
 - 🌱 I’m currently learning Javascript, and Non-relational databases
 - 💞️ I’m looking to collaborate on all kinds of software development projects, particularly challenging and unfamiliar cases
-- 📫 How to reach me : email => kmotlola97@gmnail.com
+- 📫 How to reach me : email => kmotlola97@gmail.com
